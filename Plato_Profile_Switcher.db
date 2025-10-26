@@ -1,0 +1,50 @@
+[
+  {
+    "Device Id": "6af6d38755b87a1a",
+    "username": "7z",
+    "password": "6af6d38755b87a1a",
+    "expiry": "2025-11-21"
+  },
+  {
+    "Device Id": "6af6d38755b87a1a",
+    "username": "Bzz",
+    "password": "6af6d38755b87a1a",
+    "expiry": "2095-10-15"
+  },
+  {
+    "Device Id": "",
+    "username": "abc",
+    "password": "101",
+    "expiry": "2026-09-29"
+  },
+  {
+    "Device Id": "6af6d38755b87a1a",
+    "username": "def",
+    "password": "102",
+    "expiry": ""
+  },
+  {
+    "Device Id": "8a196a8e19e03b93",
+    "username": "3ed",
+    "password": "8a196a8e19e03b93",
+    "expiry": "2026-01-01"
+  },
+  {
+    "Device Id": "PASTE-DEVICE-ID",
+    "username": "jkl",
+    "password": "104",
+    "expiry": ""
+  },
+  {
+    "Device Id": "PASTE-DEVICE-ID",
+    "username": "mno",
+    "password": "105",
+    "expiry": "2025-10-04"
+  },
+  {
+    "Device Id": "PASTE-DEVICE-ID",
+    "username": "pqr",
+    "password": "106",
+    "expiry": ""
+  }
+]
